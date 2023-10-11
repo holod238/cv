@@ -1,9 +1,9 @@
-# Hi, I'm Roman 👋
-Senior Software Engineer with more than 5 years of commertial experience. I have excellent knowledge in backend development on Java.
-In general worked with monolitic, microservice and serverless arthitectures. Big part of my acitities is open-source.
+# Hi, I'm Pavel 👋
+Middle Quality Assurance Engineer with more than 2 years of commertial experience. **I have excellent knowledge in backend development on Java.**
+In general worked with monolitic, microservice and serverless arthitectures.
 
 <p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true"><img
+   <a href="https://github-readme-stats.vercel.app/api?username=pavelTrofimov-qa&show_icons=true&count_private=true"><img
            height=150
            src="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true"/></a>
    <a href="https://github.com/romankh3/github-readme-stats"><img height=150
